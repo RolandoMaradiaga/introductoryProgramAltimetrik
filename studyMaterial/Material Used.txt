@@ -1,0 +1,9 @@
+For GIT
+
+https://video.udacity-data.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf
+
+https://www.atlassian.com/git/tutorials/what-is-version-control
+
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+https://learn.udacity.com/courses/ud123
